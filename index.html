@@ -12,8 +12,10 @@ layout: default
 				<span>{{ post.date | date: "%b %d, %Y" }}</span>
 			</div>
 			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				<a href="{{ post.url | prepend: site.baseurl }}"><b><h1>{{ post.title }}</h1></b></a>
 			</div>
+
+			{{ post.excerpt }}...
 		</li>
 
 		{% endfor %}

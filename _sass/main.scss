@@ -110,12 +110,12 @@ span[data-note] {
 .logo {
   margin: 0 auto 35px;
   text-align: center;
-  animation-duration: 0.7s;
+  /*animation-duration: 0.7s;
   animation-fill-mode: both;
-  /*animation-name: bounce;*/
+  animation-name: bounce;
   -webkit-animation-duration: 0.7s;
   -webkit-animation-fill-mode: both;
-  -webkit-animation-name: bounce;
+  -webkit-animation-name: bounce;*/
   a {
     background: #ddd url("gravatar_wrapper.png");
     color: #000;
@@ -132,23 +132,23 @@ span[data-note] {
     box-sizing: border-box;
     &:hover,
     &:focus {
-      background: #000000;
+      /*background: #000000;*/
     }
-    &:hover + .logo-prompt,
+    /*&:hover + .logo-prompt,
     &:focus + .logo-prompt {
       display: inline-block !important;
-    }
+    }*/
     .gravatar {
       margin-top: 5px;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       border-radius: 50%;
     }
-    @media (max-width : 480px) {&:hover + .logo-prompt,
+    /*@media (max-width : 480px) {&:hover + .logo-prompt,
       &:focus + .logo-prompt {
         display: none !important;
       }
-    }
+    }*/
   }
   .logo-prompt {
     position: absolute;
