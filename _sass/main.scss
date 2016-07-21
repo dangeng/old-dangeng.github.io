@@ -319,12 +319,28 @@ section {
         text-overflow: ellipsis !important;
         white-space: nowrap !important;
         word-wrap: normal !important;
+        font-size: 24px;
+        transition: font-size .4s ease;
+        transition: color .4s ease;
+        margin: 1 0 0 2px;
+        color: #000;
+      }
+      .title:hover {
+        color: #666;
+        font-size: 24.2px;
+      }
+      .excerpt {
+        transition: color 0.4s ease;
+        color: #000;
+      }
+      .excerpt:hover {
+        color: #666;
       }
       a {
         text-decoration: none;
         border: 0;
-        color: #000;
         box-sizing: border-box;
+        display: block;
       }
       .post-date {
         float: right;
@@ -336,13 +352,13 @@ section {
         letter-spacing: 1px;
         text-transform: uppercase;
       }
-      @media (min-width: 992px) {a {
+      /*@media (min-width: 992px) {a {
           border-bottom: 2px solid transparent;
           &:hover {
             border-color: #000;
           }
         }
-      }
+      }*/
     }
   }
 }
