@@ -1,4 +1,4 @@
-<aside class="logo">
+<!--<aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
@@ -12,5 +12,19 @@
 		<img src="http://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=80" class="gravatar">
 	</a>
 	<span class="logo-prompt">{{ prompt }}</span>
+
+</aside>-->
+
+<aside class="headerTitle">
+	
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = '/about' %}
+		{% assign prompt = 'About the Author' %}
+		<a href="{{ link | prepend: site.baseurl }}">Daniel Geng</a>
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Back to Home' %}
+		<a href="{{ link | prepend: site.baseurl }}">About</a>
+	{% endif %}
 
 </aside>

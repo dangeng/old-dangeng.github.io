@@ -8,6 +8,15 @@ body {
   @media (min-width: 992px) {
     padding: 35px 50px;
   }
+
+  .divider {
+    background: #ddd;
+    background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+    background: linear-gradient(to right,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+    height: 1px;
+    margin: 2em 0;
+  }
 }
 h2,
 h3,
@@ -177,6 +186,20 @@ span[data-note] {
       margin-top: -5px;
     }
   }
+}
+.headerTitle{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 10px 0 0 0;
+    color: #000;
+    a{
+        border-bottom: 0px;
+        transition: color .5s ease;
+    }
+    a:hover{
+        color:#666;
+    }
 }
 iframe {
   margin: 45px 0 !important;
