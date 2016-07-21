@@ -12,7 +12,7 @@ You may refer [this post here](http://heiswayi.github.io/the-plain.html) for how
 
 ### Credits
 
-This theme is based on Leonard Lamprecht's [Jekyll theme](https://github.com/leo/leo.github.io).
+This theme is based on Leonard Lamprecht's [Jekyll theme](https://github.com/leo/leo.github.io), and was created by [Heiswayi Nrird] (https://github.com/heiswayi/the-plain).
 
 ### License
 
