@@ -5,8 +5,8 @@ title: About
 
 Hello.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+My name is Daniel Geng. I am a recent high school grad who hails from Ann Arbor, Michigan. Among my interests are coding, math, physics, and software art. Some not-as-nerdy pursuits that I enjoy include breakdancing, glowsticking, and ultimate frisbee. If anyone suddenly feels the urge to talk to me, they can reach me at:
 
-**Just write thing that matters..**
-
-Enjoy!
+* Gmail: dangengdg at gmail dot com
+* Facebook: [Daniel Geng](https://www.facebook.com/daniel.geng.9)
+* Github: dangeng[Github](https://github.com/dangeng)

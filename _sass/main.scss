@@ -206,15 +206,17 @@ span[data-note] {
         color:#AAA;
         font-size: 40px;
     }
-    .description{
-        font-size: 16px;
-        font-weight: 300;
-    }
 }
 .TextSlide{
     font-size: 36px;
     font-weight: bold;
     text-align: center;
+
+    .description{
+        font-size: 16px;
+        font-weight: 300;
+        margin-top: 5px;
+    }
 
     a{
         color: #000;
@@ -364,6 +366,11 @@ article {
     margin: 30px 0;
   }
   p {
+    font-size: 15px;
+    line-height: 1.9em;
+    word-wrap: break-word;
+  }
+  li {
     font-size: 15px;
     line-height: 1.9em;
     word-wrap: break-word;

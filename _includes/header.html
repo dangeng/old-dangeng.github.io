@@ -15,22 +15,40 @@
 
 </aside>-->
 
-<aside class="headerTitle">
-	
+<!--<aside class="headerTitle">
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
 		<a href="{{ link | prepend: site.baseurl }}">Daniel Geng</a>
 			<div class="description">I'm not an expert, but..... just pretend I am for the time being</div>
-	{% elsif page.url == '/about' %}
-		About
+	{% endif %}
+</aside>-->
+
+<aside class="TextSlide">
+	{% if page.url contains '/index.html' or page.url == '/' %}
+		<div class="blue-btn">
+			{% assign link = '/about' %}
+  			<a class="first-link" href="{{ link | prepend: site.baseurl }}">Daniel Geng</a>
+  			<a class="second-link"href="{{ link | prepend: site.baseurl }}">About >></a>
+		</div>
+		<div class="description">I'm not an expert, but..... just pretend I am for the time being</div>
 	{% endif %}
 </aside>
+
+<aside class="TextSlide">
+	{% if page.url contains '/about'%}
+		<div class="blue-btn">
+  			<a class="first-link" href="{{site.baseurl}}">About</a>
+  			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
+		</div>
+	{% endif %}
+</aside>
+
 <aside class="TextSlide">
 	{% if page.url contains '/notes'%}
 		<div class="blue-btn">
   			<a class="first-link" href="{{site.baseurl}}">{{ page.title }}</a>
   			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
 		</div>
-		<aside class="headerTitle"><div class="description"><time>{{ page.date | date: '%B %-d, %Y' }}</time></div></aside>
+		<div class="description"><time>{{ page.date | date: '%B %-d, %Y' }}</time></div>
 	{% endif %}
 </aside>
