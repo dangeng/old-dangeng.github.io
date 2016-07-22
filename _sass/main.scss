@@ -193,12 +193,23 @@ span[data-note] {
     font-weight: bold;
     padding: 10px 0 0 0;
     color: #000;
+    user-select: none;
+    -webkit-user-select: none; /* Chrome/Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
     a{
         border-bottom: 0px;
-        transition: color .5s ease;
+        -webkit-transition: all 0.4s ease;
+        -moz-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
     }
     a:hover{
-        color:#666;
+        color:#AAA;
+        font-size: 40px;
+    }
+    .description{
+        font-size: 16px;
+        font-weight: 300;
     }
 }
 iframe {
@@ -320,11 +331,17 @@ article {
     display: inline-block;
     padding: 10px;
     border: 0;
+    transition: background-color .4s ease;
+    background-color: #fff;
+    border-radius: 8px;
     &:before {
       content: "<<";
       margin-right: 5px;
       color: #000;
     }
+  }
+  a:hover{
+      background-color: #bbb;
   }
 }
 section {
@@ -343,21 +360,21 @@ section {
         white-space: nowrap !important;
         word-wrap: normal !important;
         font-size: 24px;
-        transition: font-size .4s ease;
-        transition: color .4s ease;
-        margin: 1 0 0 2px;
+        -webkit-transition: all 0.4s ease;
+        -moz-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
         color: #000;
       }
       .title:hover {
-        color: #666;
-        font-size: 24.2px;
+        color: #AAA;
+        font-size: 26px;
       }
       .excerpt {
         transition: color 0.4s ease;
         color: #000;
       }
       .excerpt:hover {
-        color: #666;
+        color: #AAA;
       }
       a {
         text-decoration: none;
