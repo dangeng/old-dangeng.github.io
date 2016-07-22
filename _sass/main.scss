@@ -427,6 +427,10 @@ section {
       .excerpt {
         transition: color 0.4s ease;
         color: #000;
+        font-size: 15px;
+        line-height: 1.9em;
+        padding-left: 20px;
+        word-wrap: break-word;
       }
       .excerpt:hover {
         color: #AAA;
