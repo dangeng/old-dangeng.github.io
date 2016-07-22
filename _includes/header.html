@@ -30,7 +30,7 @@
 <aside class="TextSlide">
 	{% if page.url contains '/notes'%}
 		<div class="blue-btn">
-  			<a class="first-link" href="">{{ page.title }}</a>
+  			<a class="first-link" href="{{site.baseurl}}">{{ page.title }}</a>
   			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
 		</div>
 		<aside class="headerTitle"><div class="description"><time>{{ page.date | date: '%B %-d, %Y' }}</time></div></aside>
