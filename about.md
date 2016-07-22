@@ -9,4 +9,4 @@ My name is Daniel Geng. I am a recent high school grad who hails from Ann Arbor,
 
 * Gmail: dangengdg at gmail dot com
 * Facebook: [Daniel Geng](https://www.facebook.com/daniel.geng.9)
-* Github: dangeng[Github](https://github.com/dangeng)
+* Github: [dangeng](https://github.com/dangeng)
