@@ -20,11 +20,19 @@
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
 		<a href="{{ link | prepend: site.baseurl }}">Daniel Geng</a>
-		<div class="description">I'm not an expert, but..... just pretend I am for the time being</div>
-	{% else %}
+			<div class="description">I'm not an expert, but..... just pretend I am for the time being</div>
+	{% elsif page.url == '/about' %}
 		<!--{% assign link = '/' %}-->
 		<!--<a href="{{ link | prepend: site.baseurl }}">About</a>-->
 		About
 	{% endif %}
-
+</aside>
+<aside class="TextSlide">
+	{% if page.url contains '/notes'%}
+		<div class="blue-btn">
+  			<a class="first-link" href="">{{ page.title }}</a>
+  			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
+		</div>
+		<aside class="headerTitle"><div class="description"><time>{{ page.date | date: '%B %-d, %Y' }}</time></div></aside>
+	{% endif %}
 </aside>

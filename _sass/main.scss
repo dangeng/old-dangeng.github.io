@@ -201,7 +201,6 @@ span[data-note] {
         border-bottom: 0px;
         -webkit-transition: all 0.4s ease;
         -moz-transition: all 0.4s ease;
-        -o-transition: all 0.4s ease;
     }
     a:hover{
         color:#AAA;
@@ -210,6 +209,62 @@ span[data-note] {
     .description{
         font-size: 16px;
         font-weight: 300;
+    }
+}
+.TextSlide{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+
+    a{
+        color: #000;
+        border-bottom: 0px;
+        text-decoration:none;
+        text-align: center;
+        display:block; /* important */
+    }
+
+    .blue-btn, .first-link{
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        transition: 0.3s;     
+    }
+
+    .blue-btn{
+        height: 46px;
+        /*font: normal normal 700 1em/4em Arial,sans-serif;*/
+        overflow: hidden;
+        width: 500px;
+        background-color: #FFF;
+        margin: 0 auto;
+    }
+
+    .blue-btn:hover{
+        background-color: #FFF;
+    }
+
+    .blue-btn a:hover{
+        text-decoration: none;
+    }
+
+    .first-link{
+        margin-top: 0em;  
+        margin-bottom: 5px; 
+    }
+
+    .second-link{
+        color: #000;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    .second-link:hover{
+        color: #666;
+    }
+
+    .blue-btn:hover .first-link{
+        margin-top: -1.5em;     /* How much text slides */
     }
 }
 iframe {
@@ -362,7 +417,6 @@ section {
         font-size: 24px;
         -webkit-transition: all 0.4s ease;
         -moz-transition: all 0.4s ease;
-        -o-transition: all 0.4s ease;
         color: #000;
       }
       .title:hover {
