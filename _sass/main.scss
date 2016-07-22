@@ -234,9 +234,10 @@ span[data-note] {
         height: 46px;
         /*font: normal normal 700 1em/4em Arial,sans-serif;*/
         overflow: hidden;
-        width: 500px;
+        width: 100%;
         background-color: #FFF;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
+        text-align: center;
     }
 
     .blue-btn:hover{
@@ -266,6 +267,12 @@ span[data-note] {
     .blue-btn:hover .first-link{
         margin-top: -1.5em;     /* How much text slides */
     }
+}
+.container{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    text-align: left;
 }
 iframe {
   margin: 45px 0 !important;
