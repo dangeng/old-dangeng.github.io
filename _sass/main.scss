@@ -385,6 +385,13 @@ article {
       border: 0;
     }
   }
+  a{
+      -webkit-transition: all 0.4s ease;
+      -moz-transition: all 0.4s ease;
+  }
+  a:hover{
+      color: #888;
+  }
 }
 .back {
   text-align: center;
