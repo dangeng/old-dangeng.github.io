@@ -3,6 +3,10 @@ layout: compress
 ---
 
 <!DOCTYPE html>
+<!--Not really sure where to add this, but this place works fine lol-->
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 <html lang="en">
 
 	<head>
@@ -14,11 +18,6 @@ layout: compress
 		{% include header.html %}
 
 		<div class="divider"></div>
-
-		<!--Not really sure where to add this, but this place works fine lol-->
-		<script type="text/javascript"
-		    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-		</script>
 
 		<main>
 			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
