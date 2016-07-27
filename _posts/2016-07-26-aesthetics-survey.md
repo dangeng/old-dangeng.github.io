@@ -71,3 +71,9 @@ Again, there's a bump at 10, perhaps because Somerhalder is what society (or _Pe
 </center>
 
 Clearly, there's no bump at 10. But interestingly the smiling man's _average_ ranking is very close to Somerhalder's. The smiling man's average was 5.98 while Somerhalder's was 6.16. This is incredibly close considering the standard deviation for the smiling man is 2.17 while the standard deviation for Somerhalder is 2.39. Could it be that smiles make you look better?
+
+### Links in this Post
+
++ [If you want to take the survey](https://docs.google.com/forms/d/e/1FAIpQLSfhZn0rNcjnSBVY_LjgMr08SReBNQCFEeD7SlLBrvzUq6nyMw/viewform)
++ [Spreadsheets of results](https://docs.google.com/spreadsheets/d/10N8JknAHfcGJABd0ETqWqru1g_Sphs8uDardLAnbnH8/edit?usp=sharing)
++ [All the distributions](/assets/survey/survey_distributions.jpg)
