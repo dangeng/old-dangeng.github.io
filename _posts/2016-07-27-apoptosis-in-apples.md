@@ -14,7 +14,7 @@ The iPhone SE came as a relief, but it got me thinking: _when did I actually rea
 Does Apple build its phones to slowly disintegrate over time? Does each phone contain a tiny self-destruct chip? Are there secret cell towers that Apple uses to send signals to phones throughout the world to tell them that their time is up? Sadly, no. Apple is in fact not run by an evil mastermind. What Apple does is that it builds each new iOS so that it runs much slower on new phones. This can clearly be seen using Google's powerful "Trends" tool:
 
 <center>
-	<img src="/assets/apple/trends_1.jpg">
+	<img src="/assets/apple/trends_1.JPG">
 </center>
 
 What you're seeing is how often people search for the term "[iPhone slow](https://www.google.com/trends/explore#q=iphone%20slow&cmpt=q&tz=Etc%2FGMT%2B4)" over the past 8 years. Each one of those spikes corresponds to the date Apple released a new iOS. Click the link in the first sentence of this paragraph to check the dates and see if they match these release dates:
@@ -39,7 +39,7 @@ You've probably already guessed it, but Apple slows down their phones with each 
 Short answer: yes. Here is a similar Google trends search for "[Android slow](https://www.google.com/trends/explore#q=android%20slow)"
 
 <center>
-	<img src="/assets/apple/trends_3.jpg">
+	<img src="/assets/apple/trends_3.JPG">
 </center>
 
 And here are Android version release dates:
@@ -62,7 +62,7 @@ Incredibly, while Apple release dates seem to create a peak, at least two Androi
 Also, we can compare [similar search terms](https://www.google.com/trends/explore#q=iphone%20slow%2C%20android%20slow%2C%20phone%20slow%2C%20cell%20phone%20slow&cmpt=q&tz=Etc%2FGMT%2B4) such as "Android slow," "phone slow," or "cell phone slow,"
 
 <center>
-	<img src="/assets/apple/trends_2.jpg">
+	<img src="/assets/apple/trends_2.JPG">
 </center>
 
 + Blue: "iPhone slow"
