@@ -47,7 +47,7 @@ The graph is evidently heavily skewed toward the 10, with an average of 7.97. Th
 </center>
 
 <center>
-	<img src="/assets/survey/dist_2.jpg">
+	<img src="/assets/survey/dist_2.JPG">
 </center>
 
 Both distributions have a heavy skew as they're both pertty good looking, but _Starry Night_ has an odd peak at 10. Assuming that not many people have seen _The Slave Ship_, perhaps this suggests that societal influences are a big indicator of how people preceive beauty, or how people will _say_ how beautiful things seem to them. More people chose _Starry Night_ because they felt a pressure from society to rank it highly, while nobody felt any pressure to rank _The Slave Ship_ highly. In that sense, _The Slave Ship's_ distribution is probably more useful as an indicator of an individual's taste free from society. This phenomena actually happens again further down the list with Ian Somerhalder's picture:
