@@ -21,7 +21,7 @@ The survey was simple enough (as it should be!). Simply rate, on a scale from 1-
 4. Donatello's _Penitent Magdalene_
 5. A random picture of a park
 6. A picture of Ian Somerhalder
-7. An image of a [fractal flame](http://flam3.com/flame.pdf)
+7. A [fractal flame](http://flam3.com/flame.pdf)
 8. A random picture of a smiling man's face
 9. _The River_ a Fauvist painting by Andre Derain
 10. Titian's _Venus of Urbino_

@@ -388,9 +388,12 @@ article {
   a{
       -webkit-transition: all 0.4s ease;
       -moz-transition: all 0.4s ease;
+      target-name: new;
+      target-new: tab;
   }
   a:hover{
       color: #888;
+      border-color: #888;
   }
 }
 .back {
@@ -412,6 +415,7 @@ article {
   }
   a:hover{
       background-color: #bbb;
+      border-color: #bbb;
   }
 }
 section {

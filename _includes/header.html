@@ -27,8 +27,8 @@
 	{% if page.url contains '/index.html' or page.url == '/' %}
 		<div class="blue-btn">
 			{% assign link = '/about' %}
-  			<a class="first-link" href="{{ link | prepend: site.baseurl }}">Daniel Geng</a>
-  			<a class="second-link"href="{{ link | prepend: site.baseurl }}">About >></a>
+  			<a class="first-link" href="{{ link | prepend: site.baseurl }}" target="_self">Daniel Geng</a>
+  			<a class="second-link"href="{{ link | prepend: site.baseurl }}" target="_self">About >></a>
 		</div>
 		<div class="description">I'm not an expert, but..... just pretend I am for the time being</div>
 	{% endif %}
@@ -37,8 +37,8 @@
 <aside class="TextSlide">
 	{% if page.url contains '/about'%}
 		<div class="blue-btn">
-  			<a class="first-link" href="{{site.baseurl}}/">About</a>
-  			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
+  			<a class="first-link" href="{{site.baseurl}}/" target="_self">About</a>
+  			<a class="second-link"href="{{site.baseurl}}/" target="_self"><< Back</a>
 		</div>
 	{% endif %}
 </aside>
@@ -46,8 +46,8 @@
 <aside class="TextSlide">
 	{% if page.url contains '/notes'%}
 		<div class="blue-btn">
-  			<a class="first-link" href="{{site.baseurl}}">{{ page.title }}</a>
-  			<a class="second-link"href="{{site.baseurl}}/"><< Back</a>
+  			<a class="first-link" href="{{site.baseurl}}" target="_self">{{ page.title }}</a>
+  			<a class="second-link"href="{{site.baseurl}}/" target="_self"><< Back</a>
 		</div>
 		<div class="description"><time>{{ page.date | date: '%B %-d, %Y' }}</time></div>
 	{% endif %}
