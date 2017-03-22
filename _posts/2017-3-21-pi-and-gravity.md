@@ -36,7 +36,7 @@ $$ T = 2\pi \sqrt{\frac{L}{g}} $$
 
 Now let's substitute our definitions in. That is we'll but in $$ 1 $$ for $$ L $$ and $$ 2 $$ for $$ T $$.
 
-$$ 2 = s \pi \sqrt{\frac{1}{g}} $$
+$$ 2 = 2 \pi \sqrt{\frac{1}{g}} $$
 
 Now with a bit of rearrangement we get
 
