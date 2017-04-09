@@ -2,6 +2,7 @@
 title: Three ways of looking at a riddle
 updated: 2016-07-21 10:38
 excerpt: Not going to lie, I spent a long time trying to come up with thirteen ways to look at this
+published: false
 ---
 ### The Riddle
 

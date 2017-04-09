@@ -1,7 +1,8 @@
 ---
 title: Tricking Neural Networks
 updated: 2016-07-21 10:38
-excerpt: Reading handwritten digits, predicting the stock market, driving cars, and diagnosing cancers are just a few things that artificial neural networks have been taught to do. This fledging field in artificial intelligence holds much promise and is prehaps one of the most actively researched branches in computer science
+excerpt: Reading handwritten digits, predicting the stock market, driving cars, and diagnosing cancers are just a few things that artificial neural networks have been taught to do
+published: false
 ---
 ### Neural Networks
 

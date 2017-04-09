@@ -3,10 +3,13 @@ layout: page
 title: About
 ---
 
-Hello.
+Hello! I'm Daniel Geng, a freshman at UC Berkeley who hails from Ann Arbor, Michigan. You can catch me coding, math-ing, physics-ing or meme-ing somewhere with a view. I also [blog about machine learning](https://ml.berkeley.edu/blog) for Machine Learning at Berkeley.
 
-My name is Daniel Geng. I am a recent high school grad who hails from Ann Arbor, Michigan. Among my interests are coding, math, physics, and software art. Some not-as-nerdy pursuits that I enjoy include breakdancing, glowsticking, and ultimate frisbee. Feel free to contact me at:
+Anyways, I see you've stumbled upon my humble little blog. Welcome! This is where I jot down interesting ideas that I have and chronicle my adventures for the world to see.
 
-* Gmail: dangengdg at gmail dot com
+Feel free to contact me at:
+
+* Gmail: dangengdg at berkeley.edu
+* Machine Learning at Berkeley: dangengdg at ml.berkeley.edu
 * Facebook: [Daniel Geng](https://www.facebook.com/daniel.geng.9)
 * Github: [dangeng](https://github.com/dangeng)
