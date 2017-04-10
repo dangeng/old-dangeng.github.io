@@ -5,19 +5,21 @@ excerpt: I'm just going to hope I don't get sued here
 ---
 ### Aging iPhones
 
-Just a couple weeks ago, I finally upgraded from an iPhone 4 to and iPhone SE. Just for some perspective, the iPhone 4 came out on June 24th, 2010; my brick of a phone was more than four years old (eons when talking about technology) when I finally shut the metaphorical coffin lid on it. It was so laggy that I had grown used to typing on frozen screens, waiting five minutes for a map to load, or apps randomly crashing.
+Just a couple weeks ago, I finally upgraded from an iPhone 4 to and iPhone SE. Just for some perspective, the iPhone 4 came out on June 24th, 2010; my brick of a phone was more than four years old (eons when talking about technology) when I finally got rid of it. It was a relief to not have to deal with frozen screens and randomly crashing apps anymore.
 
-The iPhone SE came as a relief, but it got me thinking: _when did I actually realize my old phone was slowing down?_ I soon realized that it was right after I updated from iOS 6 to iOS 7. Fishy? Sharon Moalem (see below) puts it this way: an iPod must die for the same reason you must die. That is, you must die to make room for newer models of yourself---your offspring---to supercede you and let evolution run its course. And your iPod must eventually die because room must be made for newer models. The death of an iPod or and iPhone is presumably initiated by Apple itself, but how?
+But it got me thinking: _when did I actually realize my old phone was slowing down?_ I realized that it was right after I updated from iOS 6 to iOS 7. Fishy?
+
+In the book "[Survival of the Sickest](https://en.wikipedia.org/wiki/Survival_of_the_Sickest_(book))" Sharon Moalem puts it this way: an iPod must die for the same reason you must die. That is, you must die to make room for newer models of yourself---your offspring---to supercede you and let evolution run its course. And your iPod must eventually die because room must be made for newer models. Apple can make so much more money by selling a new phone to you every few years as opposed to once every few decades. And although phones get slower through everyday wear and tear, why not speed the process up a bit?
 
 ### How an iPhone dies
 
-Does Apple build its phones to slowly disintegrate over time? Does each phone contain a tiny self-destruct chip? Are there secret cell towers that Apple uses to send signals to phones throughout the world to tell them that their time is up? Sadly, no. Apple is in fact not run by an evil mastermind. What Apple does is that it builds each new iOS so that it runs much slower on new phones. This can clearly be seen using Google's powerful "Trends" tool:
+So does Apple build its phones to slowly disintegrate over time? Does each device contain a tiny self-destruct chip? Sadly, no. Tim Cook is not an evil mastermind and Apple is not (quite) Skynet. What Apple does is it builds each new iOS so that it runs much slower on old phones. Let's check out Google Trends:
 
 <center>
 	<img src="/assets/apple/trends_1.JPG">
 </center>
 
-What you're seeing is how often people search for the term "[iPhone slow](https://www.google.com/trends/explore#q=iphone%20slow&cmpt=q&tz=Etc%2FGMT%2B4)" over the past 8 years. Each one of those spikes corresponds to the date Apple released a new iOS. Click the link in the first sentence of this paragraph to check the dates and see if they match these release dates:
+What you're seeing is how often people search for the term "[iPhone slow](https://www.google.com/trends/explore#q=iphone%20slow&cmpt=q&tz=Etc%2FGMT%2B4)" over the past 8 years. Each one of those spikes corresponds to the date Apple released a new iOS. Feel free to click the link in the first sentence of this paragraph and check for yourself. Here's the release dates for reference:
 
 + iOS 2: July 11, 2008
 + iOS 3: June 17, 2009
@@ -28,15 +30,11 @@ What you're seeing is how often people search for the term "[iPhone slow](https:
 + iOS 8: September 17, 2014
 + iOS 9: September 16, 2015
 
-Evidently, people are downloading the OS, realizing that their phone is running slow, and then googling for an answer to their problems. Peaks matching one or two dates might just be chance, but every single iOS release corresponding to a peak? Well, I'll just let the data do the talking. 
-
-### But why?
-
-You've probably already guessed it, but Apple slows down their phones with each new OS release slow they can make more profit. As their phones get slower, people will go out and buy the "latest model" or whatnot (it also helps that new apps can't run on old OS's). Phones, of course, naturally get slower through everyday wear and tear, but why not speed the process up a bit?
+Presumably, people are downloading the OS only to find that their phone is suddenly running slowly, and then googling for an answer to their problems. Peaks matching one or two dates might just be chance, but _every single iOS release_ corresponding to a peak? Well, I'll just let the data do the talking. 
 
 ### Is it just Apple?
 
-Short answer: yes. Here is a similar Google trends search for "[Android slow](https://www.google.com/trends/explore#q=android%20slow)"
+You might be getting the feeling that I'm hating on Apple quite a bit. After all, there's other phone manufacturers and OS's for phones. Don't they also do the same (immoral) thing? Short answer: no. As far as I've been able to see, it's solely Apple doing this. Here is a similar Google trends search for "[Android slow](https://www.google.com/trends/explore#q=android%20slow)"
 
 <center>
 	<img src="/assets/apple/trends_3.JPG">
@@ -56,10 +54,10 @@ And here are Android version release dates:
 + Lollipop:	November 12, 2014
 + Marshmallow:	October 5, 2015
 
-Incredibly, while Apple release dates seem to create a peak, at least two Android releases seem to have the opposite effect. Both the KitKat and Lollipop Android release seem to have caused the search frequency for "Android slow" to decrease. This can be understood by realizing that software updates can actually be used to add optimizations to phones, especially for older models, making them much more faster than before. While Android seems to be doing this, Apple seems to be doing the exact opposite.
+Incredibly, while _every_ Apple release date seem to create a peak, at least two Android releases seem to have the _opposite_ effect. Both the KitKat and Lollipop Android release seem to have caused the search frequency for "Android slow" to decrease. This can be understood by realizing that software updates can actually be used to add optimizations to phones, especially for older models, making them much more faster than before. While Android seems to be doing this, **Apple seems to be doing the exact opposite**.
 
 
-Also, we can compare [similar search terms](https://www.google.com/trends/explore#q=iphone%20slow%2C%20android%20slow%2C%20phone%20slow%2C%20cell%20phone%20slow&cmpt=q&tz=Etc%2FGMT%2B4) such as "Android slow," "phone slow," or "cell phone slow,"
+We can also compare [similar search terms](https://www.google.com/trends/explore#q=iphone%20slow%2C%20android%20slow%2C%20phone%20slow%2C%20cell%20phone%20slow&cmpt=q&tz=Etc%2FGMT%2B4) such as "Android slow," "phone slow," or "cell phone slow,"
 
 <center>
 	<img src="/assets/apple/trends_2.JPG">
@@ -70,13 +68,13 @@ Also, we can compare [similar search terms](https://www.google.com/trends/explor
 + Yellow: "Phone slow"
 + Green: "Cell phone slow"
 
+Again, I'll let the data speak for itself.
+
 ### Caveats
 
+A couple caveats. For one, Google owns android and can ostensibly mess with the Trends data to hide the fact that they're doing the exact same thing that Apple is doing. Personally, I don't think that's the case. Google isn't (quite) Skynet yet either.
 
-
-Google owns android can mess with data
-
-Is this really that illegal? Not really, they have incentives too must make new models
+Also, is this illegal? Nope. Apple certain has incentives to sell more phones and make more money. Is it immoral as fuck though? Yes.
 
 #### P.S.
 
@@ -84,6 +82,4 @@ After writing this, I realized The Huffington Post had actually [written about t
 
 _"It’s highly unlikely Apple deliberately slows down older iPhones just to get you to upgrade. The company declined to comment for this story. Instead, Apple designs the new operating systems, which have more features, take up more space and require more computing power, for the new iPhones. And a consequence of that is they don’t work as well on older iPhones."_
 
-### Acknowledgments
-
-This post is inspired by a chapter of Sharon Moalem's book _Survival of the Sickest_, entitled "Why you and your iPod must die." 
+I personally don't believe their analysis though. As I've shown, Android phones don't seem to suffer from the same problems that Apple phones do, and in fact Android updates seem to optimize and speed up older phones.
