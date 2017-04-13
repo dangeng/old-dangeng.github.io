@@ -4,6 +4,8 @@ updated: 2017-4-12 11:58
 excerpt: I feel we don't think enough about the true implications of the math that we do
 ---
 
+DRAFT
+
 ### The Space of Functions
 
 Any function (from one fixed set to another fixed set) can be thought of as an element of a vector space. This is a pretty elementary fact from linear algebra and while it may sound a bit esoteric, it's not uncommon to actually manipulate the so-called "function space" when doing math. For example, one way of thinking of linear regression is to think of projecting a point in the function space (the function you want to approximate linearly) on to the subspace of linear functions (which is some plane of functions).
